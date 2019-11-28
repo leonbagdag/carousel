@@ -52,7 +52,7 @@
 		"json-loader": "^0.5.4",
 		"node-sass": "^4.9.0",
 		"npm-run-all": "^3.1.1",
-		"open": "0.0.5",
+		"open": "6.0.0",
 		"resolve-url-loader": "^1.6.0",
 		"rimraf": "^2.5.4",
 		"sass-loader": "^4.0.2",
